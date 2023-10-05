@@ -10,19 +10,19 @@ export class Statistics extends Component {
         <>
         <h3 className="text-3xl font-bold underline">{this.props.title}</h3>{ !this.props.total?<Notification message="There is no feedback"/>:
       <ul>
-        <li>
+        <li className={styles.item}>
           <p>Good:{this.props.good}</p>
         </li>
-        <li>
+        <li className={styles.item}>
           <p>Neutral:{this.props.neutral}</p>
         </li>
-        <li>
+        <li className={styles.item}>
           <p>Bad:{this.props.bad}</p>
         </li>
-        <li>
+        <li className={styles.item}>
           <p>Total:{this.props.total}</p>
         </li>
-        <li>
+        <li className={styles.item}>
           <p>Positive feedback:{Math.round(this.props.positivePercentage)}%</p>
         </li>
       </ul>}</>
