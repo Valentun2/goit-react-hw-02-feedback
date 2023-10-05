@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Valentun2/goit-react-hw-02-feedback/static/css/main.94183d8f.css",
-    "main.js": "/Valentun2/goit-react-hw-02-feedback/static/js/main.9d8198ce.js",
-    "index.html": "/Valentun2/goit-react-hw-02-feedback/index.html",
-    "main.94183d8f.css.map": "/Valentun2/goit-react-hw-02-feedback/static/css/main.94183d8f.css.map",
-    "main.9d8198ce.js.map": "/Valentun2/goit-react-hw-02-feedback/static/js/main.9d8198ce.js.map"
+    "main.css": "/goit-react-hw-02-feedback/static/css/main.94183d8f.css",
+    "main.js": "/goit-react-hw-02-feedback/static/js/main.9d8198ce.js",
+    "index.html": "/goit-react-hw-02-feedback/index.html",
+    "main.94183d8f.css.map": "/goit-react-hw-02-feedback/static/css/main.94183d8f.css.map",
+    "main.9d8198ce.js.map": "/goit-react-hw-02-feedback/static/js/main.9d8198ce.js.map"
   },
   "entrypoints": [
     "static/css/main.94183d8f.css",
