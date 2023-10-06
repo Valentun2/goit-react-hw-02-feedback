@@ -1,4 +1,3 @@
-import { Notification } from 'components/notification/Notification';
 import { Component } from 'react';
 import styles from './Statistics.module.css';
 export class Statistics extends Component {
